@@ -1,0 +1,6 @@
+name: MySQLPL
+version: '${project.version}'
+main: plugins.mateusupl.Main
+api-version: 1.16
+authors: [ Mateusu ]
+description: Conectando MYSQL em Spigot
